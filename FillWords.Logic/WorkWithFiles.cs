@@ -10,7 +10,7 @@ namespace FillWords.Console
     // Создание и обновление директории со словарем из гита, открытие файлов
     public class WorkWithFiles
     {
-        private static string url = @"https://raw.githubusercontent.com/DemLog/Fillwords/master/dictionary/word_";
+        private static string url = @"https://raw.githubusercontent.com/DemLog/FillWords/master/FillWords.Dictionary/word_";
 
         private static bool CheckFilesDictionary(string path)
         {
