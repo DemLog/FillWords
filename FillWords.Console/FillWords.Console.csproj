@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <LangVersion>9</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="FillWords.Logic, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\FillWords.Logic\bin\Debug\netcoreapp5.0\FillWords.Logic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

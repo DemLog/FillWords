@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillWords.Logic", "FillWords.Logic\FillWords.Logic.csproj", "{9F993F1A-7DA6-41AE-94E3-67F6C5A1FA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillWords.Console", "FillWords.Console\FillWords.Console.csproj", "{FF6072F1-F93A-45C3-ACEB-DE0E46A3418C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F993F1A-7DA6-41AE-94E3-67F6C5A1FA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F993F1A-7DA6-41AE-94E3-67F6C5A1FA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F993F1A-7DA6-41AE-94E3-67F6C5A1FA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F993F1A-7DA6-41AE-94E3-67F6C5A1FA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6072F1-F93A-45C3-ACEB-DE0E46A3418C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6072F1-F93A-45C3-ACEB-DE0E46A3418C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6072F1-F93A-45C3-ACEB-DE0E46A3418C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6072F1-F93A-45C3-ACEB-DE0E46A3418C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
